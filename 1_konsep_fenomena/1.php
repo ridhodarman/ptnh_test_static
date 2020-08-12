@@ -241,7 +241,7 @@
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
                     <?php echo $n ?>. 
-                        Pegunungan lipatan, pegunungan patahan, perbukitan, dan kubah merupakan beberapa bentuklahan karena proses
+                        Bukit sisa, lembah sungai, peneplain, dan tanah rusak merupakan bentuklahan asal proses
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>" 
                         onclick="check(<?php echo $n ?>, true)">
