@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
     <!-- Bootstrap CSS-->
-    <link rel="stylesheet" href="<?php echo $loc; ?>vendor/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="<?php echo $loc; ?>aset/bootstrap/css/bootstrap.min.css">
     <!-- Font Awesome CSS-->
-    <link rel="stylesheet" href="<?php echo $loc; ?>vendor/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="<?php echo $loc; ?>aset/font-awesome/css/font-awesome.min.css">
     <!-- Custom Font Icons CSS-->
     <link rel="stylesheet" href="<?php echo $loc; ?>css/font.css">
     <!-- Google fonts - Muli-->
@@ -30,7 +30,7 @@
         }
     </style>
     <script src="<?php echo $loc; ?>script.js"></script>
-    <script src="<?php echo $loc; ?>jquery-3.5.1.min.js"></script>
+    <!-- <script src="<?php echo $loc; ?>jquery-3.5.1.min.js"></script> -->
   </head>
   <body>
     <header class="header">   

@@ -9,12 +9,12 @@
 </div>
 </div>
 <!-- JavaScript files-->
-<script src="<?php echo $loc; ?>vendor/jquery/jquery.min.js"></script>
-<script src="<?php echo $loc; ?>vendor/popper.js/umd/popper.min.js"> </script>
-<script src="<?php echo $loc; ?>vendor/bootstrap/js/bootstrap.min.js"></script>
-<script src="<?php echo $loc; ?>vendor/jquery.cookie/jquery.cookie.js"> </script>
-<!-- <script src="<?php echo $loc; ?>vendor/chart.js/Chart.min.js"></script> -->
-<script src="<?php echo $loc; ?>vendor/jquery-validation/jquery.validate.min.js"></script>
+<script src="<?php echo $loc; ?>aset/jquery/jquery.min.js"></script>
+<script src="<?php echo $loc; ?>aset/popper.js/umd/popper.min.js"> </script>
+<script src="<?php echo $loc; ?>aset/bootstrap/js/bootstrap.min.js"></script>
+<script src="<?php echo $loc; ?>aset/jquery.cookie/jquery.cookie.js"> </script>
+<!-- <script src="<?php echo $loc; ?>aset/chart.js/Chart.min.js"></script> -->
+<script src="<?php echo $loc; ?>aset/jquery-validation/jquery.validate.min.js"></script>
 <!-- <script src="<?php echo $loc; ?>js/charts-home.js"></script> -->
 <script src="<?php echo $loc; ?>js/front.js"></script>
 </body>
