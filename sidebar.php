@@ -190,9 +190,6 @@
         <!-- Sidebar Navidation Menus--><span class="heading">Main</span>
         <ul class="list-unstyled">
                 <li class="active"><a href="<?php echo $loc; ?>index.html"> <i class="icon-home"></i>Home </a></li>
-                <li><a href="<?php echo $loc; ?>tables.html"> <i class="icon-grid"></i>Tables </a></li>
-                <li><a href="<?php echo $loc; ?>charts.html"> <i class="fa fa-bar-chart"></i>Charts </a></li>
-                <li><a href="<?php echo $loc; ?>forms.html"> <i class="icon-padnote"></i>Forms </a></li>
                 <li class="tulisan"><a href="#exampledropdownDropdown" aria-expanded="false" data-toggle="collapse"> <i class="icon-windows"></i>Konsep fenomena fisik dan manusia pada bumi </a>
                   <ul id="exampledropdownDropdown" class="collapse list-unstyled ">
                     <li><a href="<?php echo $loc; ?>1_konsep_fenomena/1.php">1</a></li>
@@ -200,6 +197,151 @@
                     <li><a href="<?php echo $loc; ?>#">Page</a></li>
                   </ul>
                 </li>
+
+                <li class="tulisan"><a href="#dropdown2" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Dasar tentang prosedur penyusunan, subtansi dan pemanfaatan dasar pertanahan
+                  </a>
+                  <ul id="dropdown2" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+                
+                <li class="tulisan"><a href="#dropdown3" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Konsep teoritis bidang ilmu manajemen secara umum, manajemen publik, organisasi, SDM, dan keuangan
+                  </a>
+                  <ul id="dropdown3" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown4" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Konsep pemeliharaan lingkungan berdasarkan aturan yang berlaku demi kelangsungan hidup manusia
+                  </a>
+                  <ul id="dropdown4" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown5" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Konsep ilmu ukur tanah dan ilmu ukur bidang tanah dalam rangka pendaftaran hak tanah
+                  </a>
+                  <ul id="dropdown5" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>5_konsep_ilmu_ukur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown6" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Metode penggunaan, pengolahan dan pengumpulan data geografi
+                  </a>
+                  <ul id="dropdown6" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>6_metode_penggunaan/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown7" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Cara kerja sistem komputar secara umum, meliputi pengamanan sistem komputer, pengolahan citra, sejarah perkembangan komputer, dll
+                  </a>
+                  <ul id="dropdown7" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown8" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Konsep sebuah wilayah beserta unsur yang terkandung di dalamnya
+                  </a>
+                  <ul id="dropdown8" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown9" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Konsep rencana tata ruang dan wilayah NKRI
+                  </a>
+                  <ul id="dropdown9" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown10" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Konsep perencanaan suatu wilayah serta sarana prasarananya
+                  </a>
+                  <ul id="dropdown10" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown11" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Kebijakan pertanahan, penguasaan, dan penggunaan serta usaha pengadaan tanah
+                  </a>
+                  <ul id="dropdown11" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown12" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Landreform: Tindakan dalam rangka reforma agraria indonesia
+                  </a>
+                  <ul id="dropdown12" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown13" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Penatagunaan tanah: peruntukan, penggunaan dan persediaan tanah secara berencana dan teratur
+                  </a>
+                  <ul id="dropdown13" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown14" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Pendaftaran tanah: peruntukan, penggunaan dan persediaan tanah secara berencana dan teratur
+                  </a>
+                  <ul id="dropdown14" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown15" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Pendaftaran tanah: pengumpulan, pengolahan, pembukuan, dan penyajian serta pemeliharaan data fisik dan data yuridis
+                  </a>
+                  <ul id="dropdown15" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown16" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Proses pengaturan pertanahan
+                  </a>
+                  <ul id="dropdown16" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
+                <li class="tulisan"><a href="#dropdown17" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Penguasaan, pemilikan, penggunaan dan pemanfaatan tanah
+                  </a>
+                  <ul id="dropdown17" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                  </ul>
+                </li>
+
                 <li><a href="<?php echo $loc; ?>login.html"> <i class="icon-logout"></i>Login page </a></li>
         </ul><span class="heading">Extras</span>
         <ul class="list-unstyled">
