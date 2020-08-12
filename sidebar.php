@@ -30,6 +30,7 @@
         }
     </style>
     <script src="<?php echo $loc; ?>script.js"></script>
+    <script src="<?php echo $loc; ?>jquery-3.5.1.min.js"></script>
   </head>
   <body>
     <header class="header">   

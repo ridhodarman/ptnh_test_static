@@ -1,6 +1,7 @@
 <?php 
     $loc = "../";
     include("../sidebar.php"); 
+    $n=0;
 ?>
 <div class="page-content">
     <div class="page-header">
@@ -12,22 +13,23 @@
         <div class="container-fluid">
             <div class="row tulisan">
                 <div class="col-sm-12 card">
-                    1. Bentangan permukaan bumi dengan seluruh fenomenanya, yang mencakup: bentuk lahan, tanah, vegetasi,
+                    <?php $n= $n + 1; ?>
+                    <?php echo $n ?>. Bentangan permukaan bumi dengan seluruh fenomenanya, yang mencakup: bentuk lahan, tanah, vegetasi,
                     dan atribut-atribut lain, yang dipengaruhi oleh aktivitas manusia
 
                     <div>
-                        <input id="optionsRadios1a" type="radio" name="1" onchange="check(1, true)">
-                        <label for="optionsRadios1a">Bentang lahan</label>
+                        <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>" onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>A">Bentang lahan</label>
                     </div>
                     <div>
-                        <input id="optionsRadios1b" type="radio" name="1" onchange="check(1, false)">
-                        <label for="optionsRadios1b">Bentuk lahan</label>
+                        <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>" onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">Bentuk lahan</label>
                     </div>
                     <div>
-                        <input id="optionsRadios1c" type="radio" name="1" onchange="check(1, false)">
-                        <label for="optionsRadios1c">Bentang alam</label>
+                        <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>" onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>C">Bentang alam</label>
                     </div>
-                    <div id="1"></div>
+                    <div id="<?php echo $n ?>"></div>
                 </div>
             </div>
         </div>
