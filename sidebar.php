@@ -29,6 +29,7 @@
           color: white;
         }
     </style>
+    <script src="<?php echo $loc; ?>js/sweetalert.min.js"></script>
     <script src="<?php echo $loc; ?>script.js"></script>
     <!-- <script src="<?php echo $loc; ?>jquery-3.5.1.min.js"></script> -->
   </head>
@@ -192,7 +193,7 @@
                 <li><a href="<?php echo $loc; ?>tables.html"> <i class="icon-grid"></i>Tables </a></li>
                 <li><a href="<?php echo $loc; ?>charts.html"> <i class="fa fa-bar-chart"></i>Charts </a></li>
                 <li><a href="<?php echo $loc; ?>forms.html"> <i class="icon-padnote"></i>Forms </a></li>
-                <li class="tulisan"><a href="<?php echo $loc; ?>#exampledropdownDropdown" aria-expanded="false" data-toggle="collapse"> <i class="icon-windows"></i>Konsep fenomena fisik dan manusia pada bumi </a>
+                <li class="tulisan"><a href="#exampledropdownDropdown" aria-expanded="false" data-toggle="collapse"> <i class="icon-windows"></i>Konsep fenomena fisik dan manusia pada bumi </a>
                   <ul id="exampledropdownDropdown" class="collapse list-unstyled ">
                     <li><a href="<?php echo $loc; ?>1_konsep_fenomena/1.php">1</a></li>
                     <li><a href="<?php echo $loc; ?>#">Page</a></li>
