@@ -284,7 +284,8 @@
                     Kebijakan pertanahan, penguasaan, dan penggunaan serta usaha pengadaan tanah
                   </a>
                   <ul id="dropdown11" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <li><a href="<?php echo $loc; ?>11_kebijakan_pertanahan/1.php">1</a></li>
+                    <li><a href="<?php echo $loc; ?>11_kebijakan_pertanahan/2.php">2</a></li>
                   </ul>
                 </li>
 

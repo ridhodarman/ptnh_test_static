@@ -1,4 +1,7 @@
-<?php include("sidebar.php"); ?>
+<?php 
+$loc = "";
+include("sidebar.php"); 
+?>
       <div class="page-content">
         <div class="page-header">
           <div class="container-fluid">
