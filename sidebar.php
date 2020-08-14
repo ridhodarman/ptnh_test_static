@@ -212,7 +212,7 @@
                     Konsep teoritis bidang ilmu manajemen secara umum, manajemen publik, organisasi, SDM, dan keuangan
                   </a>
                   <ul id="dropdown3" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 
@@ -221,7 +221,7 @@
                     Konsep pemeliharaan lingkungan berdasarkan aturan yang berlaku demi kelangsungan hidup manusia
                   </a>
                   <ul id="dropdown4" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <li><a href="<?php echo $loc; ?>4_konsep_pemeliharaan_lingkungan/1.php">1</a></li>
                   </ul>
                 </li>
 
@@ -248,7 +248,7 @@
                     Cara kerja sistem komputar secara umum, meliputi pengamanan sistem komputer, pengolahan citra, sejarah perkembangan komputer, dll
                   </a>
                   <ul id="dropdown7" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 
@@ -257,7 +257,7 @@
                     Konsep sebuah wilayah beserta unsur yang terkandung di dalamnya
                   </a>
                   <ul id="dropdown8" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 
@@ -266,7 +266,7 @@
                     Konsep rencana tata ruang dan wilayah NKRI
                   </a>
                   <ul id="dropdown9" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 
@@ -275,7 +275,7 @@
                     Konsep perencanaan suatu wilayah serta sarana prasarananya
                   </a>
                   <ul id="dropdown10" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 
@@ -294,7 +294,7 @@
                     Landreform: Tindakan dalam rangka reforma agraria indonesia
                   </a>
                   <ul id="dropdown12" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 
@@ -303,7 +303,7 @@
                     Penatagunaan tanah: peruntukan, penggunaan dan persediaan tanah secara berencana dan teratur
                   </a>
                   <ul id="dropdown13" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 
@@ -312,7 +312,7 @@
                     Pendaftaran tanah: peruntukan, penggunaan dan persediaan tanah secara berencana dan teratur
                   </a>
                   <ul id="dropdown14" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 
@@ -321,7 +321,7 @@
                     Pendaftaran tanah: pengumpulan, pengolahan, pembukuan, dan penyajian serta pemeliharaan data fisik dan data yuridis
                   </a>
                   <ul id="dropdown15" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 
@@ -330,7 +330,7 @@
                     Proses pengaturan pertanahan
                   </a>
                   <ul id="dropdown16" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 
@@ -339,7 +339,7 @@
                     Penguasaan, pemilikan, penggunaan dan pemanfaatan tanah
                   </a>
                   <ul id="dropdown17" class="collapse list-unstyled ">
-                    <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li>
+                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
                   </ul>
                 </li>
 

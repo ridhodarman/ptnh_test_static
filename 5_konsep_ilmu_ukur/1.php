@@ -6,7 +6,7 @@
 <div class="page-content">
     <div class="page-header">
         <div class="container-fluid">
-            <h2 class="h5 no-margin-bottom">Dasar tentang prosedur penyusunan, subtansi dan pemanfaatan dasar pertanahan
+            <h2 class="h5 no-margin-bottom">Konsep ilmu ukur tanah dan ilmu ukur bidang tanah dalam rangka pendaftaran hak tanah
             </h2>
         </div>
     </div>
@@ -1684,14 +1684,14 @@
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
                         <label for="<?php echo $n ?>A">
-                            Supaya praktikan lebih menguasai pengukuran dan pemetaan topografi.
+                            Supaya lebih menguasai pengukuran dan pemetaan topografi.
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, true)">
                         <label for="<?php echo $n ?>B">
-                            Supaya praktikan lebih paham dalam pengeplotan titik demi titik detail dalam suatu sistem
+                            Supaya lebih paham dalam pengeplotan titik demi titik detail dalam suatu sistem
                             koordinat peta
                         </label>
                     </div>
@@ -1699,14 +1699,14 @@
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
                         <label for="<?php echo $n ?>C">
-                            Supaya praktikan lebih disiplin dalam pemetaan.
+                            Supaya lebih disiplin dalam pemetaan.
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
                         <label for="<?php echo $n ?>D">
-                            Supaya praktikan menemui tantangan pekerjaan dengan kesulitan yang tinggi.</label>
+                            Supaya menemui tantangan pekerjaan dengan kesulitan yang tinggi.</label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
