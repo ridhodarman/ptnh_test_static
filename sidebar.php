@@ -303,7 +303,7 @@
                     Penatagunaan tanah: peruntukan, penggunaan dan persediaan tanah secara berencana dan teratur
                   </a>
                   <ul id="dropdown13" class="collapse list-unstyled ">
-                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
+                    <li><a href="<?php echo $loc; ?>13_penatagunaan_tanah/1.php">1</a></li>
                   </ul>
                 </li>
 
