@@ -349,6 +349,7 @@
                   </a>
                   <ul id="dropdown99" class="collapse list-unstyled ">
                     <li><a href="<?php echo $loc; ?>99campuran/1.php">1</a></li>
+                    <li><a href="<?php echo $loc; ?>99campuran/2.php">2</a></li>
                   </ul>
                 </li>
 
