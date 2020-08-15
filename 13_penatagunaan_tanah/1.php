@@ -131,13 +131,13 @@
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	Tetap pada putusan semula                                            </label>
+                        <label for="<?php echo $n ?>A">	Tetap pada putusan semula                     
+                        Atau meneruskan kepada Gubernur                       </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C"> Mengadakan penafsiran ulang  
-Atau meneruskan kepada Gubernur 
+                        <label for="<?php echo $n ?>C"> Mengadakan penafsiran ulang   
                         </label>
                     </div>
                     <div>
@@ -160,7 +160,8 @@ Atau meneruskan kepada Gubernur
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Pada saat terjadi kesepakatan                                        </label>
+                        <label for="<?php echo $n ?>A">	Pada saat terjadi kesepakatan                                        
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
@@ -171,7 +172,8 @@ Atau meneruskan kepada Gubernur
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Setelah pembayaran gati kerugian                                  </label>
+                        <label for="<?php echo $n ?>B">	Setelah pembayaran gati kerugian                                  
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"

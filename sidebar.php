@@ -343,6 +343,15 @@
                   </ul>
                 </li>
 
+                <li class="tulisan"><a href="#dropdown99" aria-expanded="false" data-toggle="collapse"> 
+                  <i class="icon-windows"></i>
+                    Campuran
+                  </a>
+                  <ul id="dropdown99" class="collapse list-unstyled ">
+                    <li><a href="<?php echo $loc; ?>99campuran/1.php">1</a></li>
+                  </ul>
+                </li>
+
                 <li><a href="<?php echo $loc; ?>login.html"> <i class="icon-logout"></i>Login page </a></li>
         </ul><span class="heading">Extras</span>
         <ul class="list-unstyled">
