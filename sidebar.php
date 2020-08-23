@@ -212,7 +212,7 @@
                     Konsep teoritis bidang ilmu manajemen secara umum, manajemen publik, organisasi, SDM, dan keuangan
                   </a>
                   <ul id="dropdown3" class="collapse list-unstyled ">
-                    <!-- <li><a href="<?php echo $loc; ?>2_dasar_prosedur/1.php">1</a></li> -->
+                    <li><a href="<?php echo $loc; ?>3_konsep_teoritis/1.php">1</a></li>
                   </ul>
                 </li>
 

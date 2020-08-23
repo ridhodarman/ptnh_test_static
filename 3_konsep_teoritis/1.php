@@ -6,7 +6,7 @@
 <div class="page-content">
     <div class="page-header">
         <div class="container-fluid">
-            <h2 class="h5 no-margin-bottom">Campuran 2
+            <h2 class="h5 no-margin-bottom">Konsep teoritis bidang ilmu manajemen secara umum, manajemen publik, organisasi, SDM, dan keuangan
             </h2>
         </div>
     </div>
@@ -17,1755 +17,1670 @@
 
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>. Tanah pertanian yang dimiliki oleh perorangan atau keluarga yang bedomisili di luar disebut ..... 
+                    <?php echo $n ?>.    Kata manajemen berasal dari “manage” dari bahasa ... yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Tanah eigendom 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>A">Italia, Maneggio
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Tanah Swapraja 
+                        <label for="<?php echo $n ?>B">	Latin, Maneggio
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>C">	Tanah Absentee 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>C">	Inggris, Management
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	verponding 
+                        <label for="<?php echo $n ?>D">	Italia, Maneggiare
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	erfpacht </label>
+                        <label for="<?php echo $n ?>E">	Sanskerta, Maneggio </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Tanah bekas milik kerajaan dinamakan dengan istilah ..... 
+                    <?php echo $n ?>.  Manajemen adalah .....
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Tanah Absentee 
+                        <label for="<?php echo $n ?>A">Ilmu perencanaan, pengaturan dan pelaksanaan hubungan antar manusia dengan organisasi.
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	Tanah Swapraja 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">	Ilmu dan seni tentang penggunaan sumber daya yang terbatas untuk pemenuhan kebutuhan manusia yang tak terbatas.
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Tanah eigendom 
+                        <label for="<?php echo $n ?>C">	Ilmu untuk mendapatkan hasil kerja yang maksimal dalam rangka pemenuhan kabutuhan organisasi untuk mencapai tujuan misi dan visi perusahaan.
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Tanah negara 
+                        <label for="<?php echo $n ?>D">	Ilmu dan seni dalam memimpin orang atau sumber daya manusia.
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Tanah warisan budaya </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>E">	IImu dan seni tentang upaya untuk memanfaatkan semua sumber daya yang dimiliki untuk mencapai tujuan secara efektif dan efisien. </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Istilah untuk surat nomor tagihan pajak atas tanah/bangunan yang dimaksudkan, yang sekarang dikenal dengan Surat Pajak Hasil Bumi dan Bangunan (SPPT PBB) adalah ..... 
+                    <?php echo $n ?>.  Fungsi manajemen menurut Henry Fayol adalah  ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	verponding 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>A">Planning, Staffing, Reporting, Budgeting, Coordinating, Organizing, Directing
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	erfpacht 
+                        <label for="<?php echo $n ?>B">	Planning, Actuating, Organizing, Controlling
+                        </label>
+                    </div>
+                    <div>
+                        <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>C">	Planning, Organizing, Conditioning, Motivating, Controlling
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	egindom 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>D">	Planning, Organizing, Coordinating, Comanding, dan Controlling
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Swapercht </label>
+                        <label for="<?php echo $n ?>E">	Planning, Staffing, Directing,  Organizing, Controlling </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Yang dimaksud dengna 'pendaftaran tanah' adalah .... 
+                    <?php echo $n ?>.  Salah satu tugas Manajemen puncak yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A"> Sistem pendataan tanah yang dilakukan oleh pemerintah terhadap tanah masyarakat                     </label>
+                        <label for="<?php echo $n ?>A">Bertanggung jawab pada lower management.
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B"> Tanah masyarakat yang didaftarkan ke kantor pertanahan setempat untuk disahkan menjadi hak milik 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>B">	Menetapkan kebijakan operasional
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>C">	rangkaian kegiatan yang dilakukan oleh Pemerintah secara terus menerus, berkesinambungan dan teratur, meliputi pengumpulan, pengolahan, pembukuan, dan lain- lain 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>C">	Melakukan semua pekerjaan tingkat operasional.
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Kegiatan yang dilakukan oleh warga masyarakat dan pihak kecamatan dalam rangka mendaftarkan hak milik tanah 
+                        <label for="<?php echo $n ?>D">	Mengawasi pada pekerja.
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Pengumpulan data kepemilikan hak atas tanah di suatu wilayah tertentu </label>
+                        <label for="<?php echo $n ?>E">	Bertanggung jawab pada Middle Management. </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Data yuridis tanah yaitu ..... 
+                    <?php echo $n ?>.  Aliran manajemen yang pemikirannya fokus pada usaha untuk mencapai kepuasan pelanggan adalah aliran ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	keterangan mengenai status hukum bidang tanah dan satuan rumah susun yang didaftar, pemegang haknya dan hak pihak lain serta beban-beban lain yang membebaninya
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>A">analisis system
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	keterangan mengenai letak, batas dan luas bidang tanah dan satuan rumah susun yang didaftar, termasuk keterangan mengenai adanya bangunan atau bagian bangunan di Atasnya
+                        <label for="<?php echo $n ?>B">	klasik
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	keterangan mengenai tanah yang tidak dipunyai dengan sesuatu hak atas tanah. 
+                        <label for="<?php echo $n ?>C">	perilaku
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	dokumen yang memuat data fisik suatu bidang tanah dalam bentuk peta dan uraian. 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>D">	Manajemen mutu
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	dokumen dalam bentuk daftar yang memuat identitas bidang tanah dengan suatu sistim penomoran. </label>
+                        <label for="<?php echo $n ?>E">	manajemen ilmiah </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Yang dimaksud dengan pendaftaran tanah secara sporadik yaitu ..... 
+                    <?php echo $n ?>.  Jenis keterampilan yang harus dimiliki oleh seorang manajer yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	kegiatan pendaftaran tanah untuk menyesuaikan data fisik dan data yuridis dalam peta pendaftaran 
+                        <label for="<?php echo $n ?>A">perencanaan, organisasi, dan evaluasi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	kegiatan yang dilaksanakan dalam rangka proses pendaftaran tanah untuk pertama kali                     </label>
+                        <label for="<?php echo $n ?>B">	formal, informal, dan teksnis
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C"> kegiatan pendaftaran tanah yang dilakukan terhadap obyek pendaftaran tanah yang belum didaftar berdasarkan Peraturan Pemerintah Nomor 10 Tahun 1961 
+                        <label for="<?php echo $n ?>C">	formal, konseptual, dan teknis
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	kegiatan pendaftaran tanah untuk pertama kali yang dilakukan secara serentak yang meliputi semua obyek pendaftaran tanah yang belum didaftar dalam wilayah atau bagian wilayah suatu desa/kelurahan. 
+                        <label for="<?php echo $n ?>D">	teknis, formal, dan manajerial
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>E">	kegiatan pendaftaran tanah untuk pertama kali mengenai satu atau beberapa obyek pendaftaran tanah dalam wilayah atau bagian wilayah suatu desa/kelurahan secara individual atau massal. </label>
+                        <label for="<?php echo $n ?>E">	kemanusian, konseptual, dan teknis </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Surat ukur yaitu .... 
+                    <?php echo $n ?>.  Studi ilmu manajemen sangat perlukan semua organisasi karena berbagai alasan berikut, kecuali ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	dokumen dalam bentuk daftar yang memuat identitas bidang tanah dengan suatu sistim penomoran. 
+                        <label for="<?php echo $n ?>A">Memperlancar tugas sehari-hari
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	dokumen yang memuat data fisik suatu bidang tanah dalam bentuk peta dan uraian. 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">	Mencapai tujuan organisasi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	dokumen dalam bentuk daftar yang memuat keterangan mengenai penguasaan tanah                     </label>
+                        <label for="<?php echo $n ?>C">	Mencapai efisiensi organisasi
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D"> dokumen dalam bentuk daftar yang memuat data yuridis dan data fisik suatu obyek pendaftaran tanah yang sudah ada haknya
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>D">	Menghilangkan potensi konflik dalam organisasi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E"> surat tanda bukti untuk hak atas tanah, hak pengelolaan, tanah wakaf </label>
+                        <label for="<?php echo $n ?>E">	Mencapai efektifitas organisasi </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Pejabat umum yang diberi kewenangan untuk membuat akta-akta tanah tertentu adalah .... 
+                    <?php echo $n ?>.  Ibu Ayuningtyas mempunyai keahlian dalam merencananakan bentuk kemasan semua produk. Hal tersebut menyebabkan tampilan produk sangat menarik sehingga meningkatkan penjualan produk. Beliau adalah orang yang tepat melakukan aktivitas manajemen di bidang ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Badan Pertanahan Nasional 
-                        </label>
+                        <label for="<?php echo $n ?>A">Perkantoran</label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Kantor Pertanahan 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>B">  Produksi atau Operasional
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>C">	Pejabat Pembuat Akta Tanah (PPAT) 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>C">	Personalia
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Menteri 
+                        <label for="<?php echo $n ?>D">	Keuangan
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Notaris </label>
+                        <label for="<?php echo $n ?>E">	Pemasaran </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Kegiatan yang dilaksanakan dalam rangka proses pendaftaran tanah untuk pertama kali, meliputi pengumpulan dan penetapan kebenaran data fisik dan data yuridis mengenai satu atau beberapa obyek pendaftaran tanah untuk keperluan pendaftarannya disebut ..... 
+                    <?php echo $n ?>.  Berikut ini yang tidak termasuk fungsi manajemen menurut G.R. Terry yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A"> Pendaftaran tanah secara sistematik                     </label>
+                        <label for="<?php echo $n ?>A">Controlling
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B"> Pendaftaran tanah untuk pertama kali 
+                        <label for="<?php echo $n ?>B">	Planning
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Pendaftaran tanah secara sporadik 
+                        <label for="<?php echo $n ?>C">	Actuating
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	yuridis 
+                        <label for="<?php echo $n ?>D">	Organizing
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>E">	Ajudikasi </label>
+                        <label for="<?php echo $n ?>E">	Directing</label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Dokumen dalam bentuk daftar yang memuat data yuridis dan data fisik suatu obyek pendaftaran tanah yang sudah ada haknya disebut ..... 
+                    <?php echo $n ?>.   Salah satu kegiatan yang dilakukan oleh pimpinan organisasi untuk memotivasi karyawan supaya bekerja keras sesuai dengan tujuan yang telah ditetapkan dan memberikan suasana kerja yang nyaman termasuk dalam fungsi manajemen ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Daftar tanah 
+                        <label for="<?php echo $n ?>A">Controlling
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Daftar nama 
+                        <label for="<?php echo $n ?>B">	Planning
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Sertipikat 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>C">	Actuating
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>D">	Buku tanah 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>D">	Organizing
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Surat ukur </label>
+                        <label for="<?php echo $n ?>E">	Directing </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Tanah yang tidak dipunyai dengan sesuatu hak atas tanah disebut .... 
+                    <?php echo $n ?>.     Salah satu kelebihan sistem organisasi garis yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	Tanah Negara atau tanah yang dikuasai langsung oleh Negara 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>A">Koordinasi hanya perlu pada pimpinan eselon bawahan
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Tanah pemerintah 
+                        <label for="<?php echo $n ?>B">	Terdapat spesialisasi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Tanah sertifikasi 
+                        <label for="<?php echo $n ?>C">	Proses menduduki jabatan kecil
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Tanah warisan 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>D">	Adanya kesatuan komando
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Tanah hasil sita </label>
+                        <label for="<?php echo $n ?>E">	Maju mundurnya perusahaan tergantung satu orang </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Persoalan Hukum Tanah di Indonesia diatur dalam ...... 
+                    <?php echo $n ?>.     Yang termasuk satu fungsi organisasi yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	Undang-Undang No. 5 Tahun 1960 
-                        </label>
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>A">Adanya tanggung jawab yang sinergi antara masing-masing bagian dalam perusahaan.</label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Peraturan Pemerintah Nomor 13 Tahun 2010 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>B">    Membagi pekerjaan, menetapkan tugas dan tanggung jawab
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Peraturan Pemerintah Nomor 24 Tahun 1997 
+                        <label for="<?php echo $n ?>C">	Membentuk susunan jabatan dan peranan
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>D">	Peraturan Presiden Nomor 10 Tahun 2006 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>D">	Adanya pelimpahan wewenang dari manajemen atas kepada manajemen pelaksana.
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	UU No. 14 Tahun 1960 </label>
+                        <label for="<?php echo $n ?>E">	Adanya pembagian wewenang pada tiap departemen. </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Badan Pertanahan Nasional (BPN) diatur melalui ....... 
+                    <?php echo $n ?>.     Fungsi manajemen yang pertama kali harus dilakukan untuk menjalankan organisasi secara efektif dan effisien yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Peraturan Pemerintah Nomor 40 Tahun 1996 dan Peraturan Pemerintah Nomor 13 
-    Tahun 2010 
+                        <label for="<?php echo $n ?>A">Pengendalian
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	Peraturan Presiden Nomor 10 Tahun 2006 dan Peraturan Presiden Nomor 85 Tahun 
-    2012 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">	Pengorganisasian
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Peraturan Pemerintah Nomor 13 Tahun 2010 dan Peraturan Presiden Nomor 85 Tahun 
-    2012 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>C">	Perencanaan
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Peraturan Pemerintah Nomor 24 Tahun 1997 dan Peraturan Presiden Nomor 10 Tahun 
-    2006 
+                        <label for="<?php echo $n ?>D">	Pengawasan
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Peraturan Presiden Nomor 10 Tahun 2006 dan Peraturan Pemerintah Nomor 13 Tahun 2010 </label>
+                        <label for="<?php echo $n ?>E">	Pengarahan </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Pelimpahan Kewenangan Pemberian dan Pembatalan Keputusan Pemberian Hak Atas Tanah Negara diatur dalam ..... 
+                    <?php echo $n ?>.     Di bawah ini yang bukan merupakan kelebihan organisasi fungsional adalah ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	Peraturan Menteri Negara Agraria/Kepala Badan Pertanahan Nasional No. 3 tahun 
-    1999 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>A">Koordinasi terus menerus pada hanya di jenjang atas.
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Peraturan Menteri Negara Agraria/Kepala Badan Pertanahan Nasional No. 3 tahun 
-    1997 
+                        <label for="<?php echo $n ?>B">	Tugas karyawan dapat dibagi secara tegas
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Peraturan Menteri Negara Agraria/Kepala Badan Pertanahan Nasional No. 9 tahun 
-    1999 
+                        <label for="<?php echo $n ?>C">	Koordinasi bagi karyawan pada fungsi yang sama mudah karena terdapat persamaan tugas
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Peraturan Kepala Badan Pertanahan Nasional Republik Indonesia Nomor 3 Tahun 
-    2006 
+                        <label for="<?php echo $n ?>D">	Produktivitas tinggi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Peraturan Kepala Badan Pertanahan Nasional Republik Indonesia Nomor 4 Tahun 
-    2006 
-    </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>E">	Koordinasi secara menyeluruh sulit dilakukan </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Peraturan Pemerintah Nomor 24 Tahun 1997 membahas tentang ...... 
+                    <?php echo $n ?>.     Fungsi manajemen untuk menggerakkan orang agar bekerja sesuai dengan tujuan yang telah ditetapkan yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Peraturan Dasar Pokok-Pokok Agraria 
+                        <label for="<?php echo $n ?>A">Directing
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Badan Pertanahan Nasional 
+                        <label for="<?php echo $n ?>B">	Planning
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Hak Guna Usaha, Hak Guna Bangunan dan Hak Pakai atas Tanah 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>C">	Actuating
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>D">	Pendaftaran Tanah 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>D">	Organizasing
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan Pertanahan Nasional. </label>
+                        <label for="<?php echo $n ?>E">	Controlling </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Peraturan Kepala Badan Pertanahan Nasional Republik Indonesia Nomor 3 Tahun 2006 mencakup peraturan mengenai ....... 
+                    <?php echo $n ?>.     Dalam perusahanaan, jabatan direktur utama termasuk dalam tingkatan ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Tarif Atas Jenis Penerimaan Negara Bukan Pajak Yang Berlaku Pada Badan 
-    Pertanahan Nasional 
+                        <label for="<?php echo $n ?>A">Semua level manajemen
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Ketentuan Pelaksanaan Peraturan Pemerintah Nomor 24 tahun 1997 
+                        <label for="<?php echo $n ?>B">	Dewan komisaris
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Tata Cara Pemberian dan Pembatalan Hak Atas Tanah Negara dan Hak Pengelolaan                     </label>
+                        <label for="<?php echo $n ?>C">	Manajemen menengah
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D"> Organisasi dan Tata Kerja Kantor Wilayah Badan Pertanahan Nasional Provinsi dan Kantor Pertanahan Kabupaten/Kota 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>D">	Manajemen puncak
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>E"> Organisasi dan Tata Kerja Badan Pertanahan Nasional Republik Indonesia </label>
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>E">	Manajemen tingkat bawah </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Organisasi dan Tata Kerja Kantor Wilayah Badan Pertanahan Nasional Provinsi dan Kantor Pertanahan Kabupaten/Kota ditetapkan dalam ..... 
+                    <?php echo $n ?>.     Pak Agus berrkedudukan sebagai manajer personalia dan merencanakan perekrutan pegawai baru. Dalam rangka merealisasikan rencananya, beliau melakukan kegiatan-kegiatan mulai dari menetukan panitia, menetapkan tugas, dan tanggung jawab masing-masing individu, serta pelimpahan wewenang kepada bawahan. Aktivitas  yang dilakukan oleh Pak Agus sesuai dengan fungsi manajemen, yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Peraturan Kepala Badan Pertanahan Nasional Republik Indonesia Nomor 3 Tahun 
-    2006 
+                        <label for="<?php echo $n ?>A">Actuating
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	Peraturan Kepala Badan Pertanahan Nasional Republik Indonesia Nomor 4 Tahun 
-    2006 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">	Forcasting
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Peraturan Menteri Negara Agraria/Kepala Badan Pertanahan Nasional No. 9 tahun 
-    1999 
+                        <label for="<?php echo $n ?>C">	Planning
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Peraturan Menteri Negara Agraria/Kepala Badan Pertanahan Nasional No. 3 tahun 
-    1999 
+                        <label for="<?php echo $n ?>D">	Controlling
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Peraturan Presiden Nomor 10 Tahun 2006 </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>E">	Organizing </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Peraturan yang membahas tentang Pencabutan Hak-Hak Atas Tanah Dan Benda- Benda Yang Ada Di Atasnya adalah ..... 
+                    <?php echo $n ?>.     Pengendalian mutu  merupakan salah satu bagian dari manajemen
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Undang-Undang Republik Indonesia Nomor 1 Tahun 1964 
-                        </label>
+                        <label for="<?php echo $n ?>A">Keuangan</label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Undang Undang Republik Indonesia Nomor 17 Tahun 1985 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>B">    Produksi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Undang Undang Republik Indonesia Nomor 20 Tahun 1964                     </label>
+                        <label for="<?php echo $n ?>C">	Sumber daya manusia
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>D"> Undang-Undang Republik Indonesia Nomor 20 Tahun 1961 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>D">	Perkantoran
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E"> Undang Undang Republik Indonesia Nomor 5 Tahun 1992 </label>
+                        <label for="<?php echo $n ?>E">	Pemasaran </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Undang-undang yang mengatur mengenai Hak Tanggungan Atas Tanah Beserta Benda-Benda Yang Berkaitan Dengan Tanah yaitu .... 
+                    <?php echo $n ?>.     Dalam sistem persediaan pada manajemen produksi penanganan yang terbaik adalah dengan penghitungan jumlah persediaan yang disebut dengan ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	Undang-Undang Republik Indonesia Nomor 4 Tahun 1996 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>A">QualityControl
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Undang-Undang Republik Indonesia Nomor 7 Tahun 2004 
+                        <label for="<?php echo $n ?>B">	Lay out produksi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Undang-Undang Republik Indonesia Nomor 25 Tahun 1999 
+                        <label for="<?php echo $n ?>C">	Segmenting
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Undang-Undang Republik Indonesia Nomor 23 Tahun 1997 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>D">	Economic Order Quantity
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Undang Undang Republik Indonesia Nomor 1 Tahun 1995 </label>
+                        <label for="<?php echo $n ?>E">	Pengendalian mutu </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Perubahan Atas Undang-Undang Nomor 21 Tahun 1997 Tentang Bea Perolehan Hak Atas Tanah Dan Bangunan telah ditetapkan dalam ..... 
+                    <?php echo $n ?>.     Proses indentifikasi sekelompok konsumen yang sifatnya homogen dan akan dilayani organisasi atau perusahaan yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Undang-Undang Republik Indonesia Nomor 1 Tahun 2004 
+                        <label for="<?php echo $n ?>A">Controlling
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Undang-Undang Republik Indonesia Nomor 16 Tahun 2001 
+                        <label for="<?php echo $n ?>B">	Targeting
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>C">	Undang-Undang Republik Indonesia Nomor 20 Tahun 2000 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>C">	Positioning
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Undang-Undang Republik Indonesia Nomor 25 Tahun 1999 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>D">	Segmenting
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Undang-Undang Republik Indonesia Nomor 17 Tahun 2003 </label>
+                        <label for="<?php echo $n ?>E">	Planning </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Undang-Undang Republik Indonesia Nomor 28 Tahun 1956 membahas mengenai ..... 
+                    <?php echo $n ?>.     Yang  dimaksud  dengan Marketing Mix adalah ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Nasionalisasi Perusahaan-Perusahaan Milik Belanda 
+                        <label for="<?php echo $n ?>A">Konsumsi, produksi, distribusi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Penggunaan Dan Penetapan Luas Tanah Untuk Tanaman-Tanaman Tertentu 
+                        <label for="<?php echo $n ?>B">	Sales, Discount, Promosi dan Harga
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Perumahan Dan Pemukiman 
+                        <label for="<?php echo $n ?>C">	Periklanan, Publisitas, Direct sales, Distribution
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>D">	Pengawasan Terhadap Pemindahan Hak Atas Tanah-Tanah Perkebunan 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>D">	Planning, Pricing, Promotion, Controlling
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Pernyataan Perlunya Beberapa Tanah Partikelir Dikembalikan Menjadi Tanah Negeri </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>E">	Product, Place, Price , Promotion </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Undang-undang yang mengatur tentang tanah wakaf yaitu ..... 
+                    <?php echo $n ?>.     Perhatikan pernyataan berikut ini : <br/>
+1)     Kualitas produk atau barang <br/>
+2)     Bentuk fisik barang <br/>
+3)     Mudah dalam mencari dan mendapatkan barang <br/>
+4)     Adanya pelayanan purna jual <br/>
+5)     Tidak ada barang substitusi <br/>
+Dalam kepuasan jangka panjang, yang perlu diperhatikan yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	Undang-Undang Republik Indonesia Nomor 41 Tahun 2004 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>A">2,4 dan 5
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Undang-Undang Republik Indonesia Nomor 32 Tahun 2004 
+                        <label for="<?php echo $n ?>B">	1,2 dan 3
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Undang-Undang Republik Indonesia Nomor 30 Tahun 2004 
+                        <label for="<?php echo $n ?>C">	3,4 dan 5
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Undang-Undang Republik Indonesia Nomor 12 Tahun 2006 
+                        <label for="<?php echo $n ?>D">	2,3 dan 4
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Undang-Undang Republik Indonesia Nomor 17 Tahun 2007 </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>E">	1,3 dan 4 </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Pengadaan Tanah Bagi Pembangunan Untuk Kepentingan Umum diegaskan dalam ..... 
+                    <?php echo $n ?>.     Ada beberapa akibat dari penilaian karyawan diperusahaan, kecuali ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Undang-Undang Republik Indonesia Nomor 4 Tahun 2009 
-                        </label>
+                        <label for="<?php echo $n ?>A">Promosi</label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Undang-Undang Republik Indonesia Nomor 11 Tahun 2011                     </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>B">    Dipindah ke perusahaan lain
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C"> Undang-Undang Republik Indonesia Nomor 25 Tahun 2009 
+                        <label for="<?php echo $n ?>C">	Dipindahkan ke pekerjaan yang lebih sempit
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Undang-Undang Republik Indonesia Nomor 25 Tahun 2009 
+                        <label for="<?php echo $n ?>D">	Pertimbangan untuk memberhantikan
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>E">	Undang-Undang Republik Indonesia Nomor 2 Tahun 2012 </label>
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>E">	Dipindah ke jabatan lain </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Peraturan Pemerintah Republik Indonesia Nomor 28 Tahun 1977 mengatur tentang ..... 
+                    <?php echo $n ?>.     Menurut pendapat Henry Fayol, jika bawahan mendapat berbagai tugas yang berbeda dari banyak atasan, maka karyawan tersebut akan bingung dan kesulitan dalam memutuskan apa yang harus dilaksanakan. Dalam hal ini, prinsip umum yang seharusnya diterapkan dalam organisasi yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Pemilikan Tanah Petanian Secara Guntai (Absentee) Bagi Para Pensiunan Pegawai 
-    Negeri 
+                        <label for="<?php echo $n ?>A">Kesatuan pengarahan
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	Perwakafan Tanah Milik 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">	Tata tertib
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Pelaksanaan Pembagian Tanah Dan Pemberian Ganti Kerugian 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>C">	Kesatuan komando
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Hubungan Sewa-Menyewa Perumahan 
+                        <label for="<?php echo $n ?>D">	Otoritas dan tanggung jawab
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Penggunaan Tanah-Tanah Untuk Lintas Lintas Kereta Api </label>
+                        <label for="<?php echo $n ?>E">	Sentralisasi dan desentralisasi </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Penyediaan Dan Penggunaan Tanah Untuk Keperluan Tempat Pemakaman ditetapkakn dalam ..... 
+                    <?php echo $n ?>.     Berikut yang bukan merupakan prinsip manajemen  menurut Hanry Fayol adalah ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Peraturan Pemerintah Republik Indonesia Nomor 28 Tahun 1977 
-                        </label>
+                        <label for="<?php echo $n ?>A">Otoritas atau wewenang</label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Peraturan Pemerintah Republik Indonesia Nomor 4 Tahun 1988 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>B">    Penonjolan diri
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>C">	Peraturan Pemerintah Republik Indonesia Nomor 9 Tahun 1987 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>C">	Kesatuan perintah
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Peraturan Pemerintah Republik Indonesia Nomor 4 Tahun 1977 
+                        <label for="<?php echo $n ?>D">	Pembagian kerja
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Peraturan Pemerintah Republik Indonesia Nomor 35 Tahun 1991 </label>
+                        <label for="<?php echo $n ?>E">	Remunerasi </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Rancangan Undang-Undang tentang Pertanahan disusun berdasarkan falsafah UUPA yang bersumber pada ..... 
+                    <?php echo $n ?>.     Teori manajemen yang memusatkan studinya pada aspek manusia dan perlunya memahami manusia merupakan aliran aliran yang memakai disiplin ilmu sosiologi dan psikologi dalam menerapkan teori-teorinya. Teori tersebut merupakan teori ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Pasal 33 ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>A">Aliran perilaku
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Pasal 33 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 
+                        <label for="<?php echo $n ?>B">	Aliran klasik
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>C">	Pasal 33 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945                     </label>
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>C">	Aliran analisis sistem
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D"> Pasal 34 ayat (2) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945                     </label>
+                        <label for="<?php echo $n ?>D">	Aliran manajemen ilmiah
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E"> Pasal 34 ayat (3) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 </label>
+                        <label for="<?php echo $n ?>E">	Aliran manajemen mutu </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Pemanfaatan Tanah Hak Guna Usaha Dan Hak Guna Bangunan Untuk Usaha Patungan Dalam Rangka Penanaman Modal Asing terdapat dalam ...... 
+                    <?php echo $n ?>.     Pemimpin yang mengambil keputusan tanpa melibatkan bawahan disebut ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A"> Keputusan Presiden Republik Indonesia Nomor 23 Tahun 1980                     </label>
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>A">Adil</label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B"> Keputusan Presiden No. 131 Tahun 1961 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>B">    Otoriter
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Keputusan Presiden Republik Indonesia Nomor 54 Tahun 1980 
+                        <label for="<?php echo $n ?>C">	Bebas
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Peraturan Presiden Republik Indonesia Nomor 71 Tahun 2012 
+                        <label for="<?php echo $n ?>D">	Demokratis
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Keputusan Presiden Republik Indonesia Nomor 55 Tahun 1980 </label>
+                        <label for="<?php echo $n ?>E">	Personal </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Lembaga pemerintah nonkementerian di Indonesia yang mempunyai tugas melaksanakan tugas pemerintahan di bidang pertanahan secara nasional, regional dan sektoral adalah ..... 
+                    <?php echo $n ?>.     Aliran manajemen berdasarkan hasil diperkenalkan pertama-tama oleh ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Lembaga Partanahan Indonesia 
+                        <label for="<?php echo $n ?>A">William Newman
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Deputi Bidang Pengendalian Pertanahan dan Pemberdayaan Masyarakat 
+                        <label for="<?php echo $n ?>B">	Henry Fayol
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Badan Pertanahan dan Pemberdayaan Masyarakat 
+                        <label for="<?php echo $n ?>C">	Ernest Dale
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>D">	Badan Pertanahan Nasional (BPN) 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>D">	Geroge Terry
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Badan Pertanahan Negara </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>E">	Peter Drucker </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Badan Pertanahan terdiri dari beberapa bidang berikut kecuali .... 
+                    <?php echo $n ?>.     Prinsip the right man on the right place digunakan dalam memutuskan seseorang ketika akan menduduki suatu jabatan dalam perusahaan atau organisasi. Hal tersebut merupakan aktivitas dari fungsi ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Sekretariat Utama 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>A">Organizing
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Deputi Bidang Survei, Pengukuran, dan Pemetaan 
+                        <label for="<?php echo $n ?>B">	Motivating
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Deputi Bidang Hak Tanah dan Pendaftaran Tanah 
+                        <label for="<?php echo $n ?>C">	Controlling
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Inspektorat Utama 
+                        <label for="<?php echo $n ?>D">	Actuating
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>E">	Inspektorat Jendral </label>
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>E">	Planning </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Dalam melaksanakan fungsinya, BPN menjalankan beberapa program pertanahan, antara lain sebagai berikut kecuali .... 
+                    <?php echo $n ?>.     Perhatkan uraian di bawah ini! <br/>
+1)     sumber dana <br/>
+2)     penerimaan pegawai <br/>
+3)     penggunaan dana <br/>
+4)     pengawasan penggunaan dana <br/>
+5)     mutasi dan promosi  <br/>
+Berdasarkan uraian di atas, yang termasuk ruang lingkup manajemen keuangan yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Prona 
+                        <label for="<?php echo $n ?>A">2, 3, 4
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	Perpajakan 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">	1, 2, 3
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Redistribusi 
+                        <label for="<?php echo $n ?>C">	3, 4, 5
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	IP4T 
+                        <label for="<?php echo $n ?>D">	1, 2, 4
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	UKM </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>E">	1, 3, 4 </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Yang tidak termasuk dalam agenda kebijakan Badan Pertanahan Nasional adalah .... 
+                    <?php echo $n ?>.     Perhatikan tujuan dari fungsi-fungsi manajemen berikut! <br/>
+1)     Mengetahui jalannya program <br/>
+2)     Mengetahui hasil pekerjaan <br/>
+3)     Memberikan motivasi kerja <br/>
+4)     Membagi pekerjaan <br/>
+5)     Mengembangkan kemampuan dan ketrampilan pegawai <br/>
+6)     Memperbaiki kesalahan yang dilakukan pegawai <br/>
+Berdasarkan uraian di atas, yang termasuk tujuan dari fungsi manajemen controlling ditunjukan nomor ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Membangun kepercayaan masyarakat pada Badan Pertanahan Nasional 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>A">1, 2, 6
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	Melakukan penelitian dan pengembangan di bidang pertanahan 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">	1, 2, 3
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Menangani dan menyelesaikan perkara, masalah, sengketa, dan konflik pertanahan di seluruh Indonesia secara sistematis 
+                        <label for="<?php echo $n ?>C">	2, 3, 4
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Membangun Sistem Informasi Pertanahan Nasional (SIMTANAS), dan sistem pengamanan dokumen pertanahan di seluruh Indonesia
+                        <label for="<?php echo $n ?>D">	1, 2, 4
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Mengembangkan dan memperbarui politik, hukum dan kebijakan Pertanahan </label>
+                        <label for="<?php echo $n ?>E">	4, 5, 6 </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Yang tidak termasuk fungsi BPN yaitu .... 
+                    <?php echo $n ?>.     Kemampuan yang harus dimiliki oleh manajemen tingkat menengah adalah ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Perumusan kebijakan nasional di bidang pertanahan. 
+                        <label for="<?php echo $n ?>A">Kemampuan personalia, teknis dan konseptual dibawah lower management
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Perumusan kebijakan teknis di bidang pertanahan. 
+                        <label for="<?php echo $n ?>B">	Kemampuan teknis melebihi lower management
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Koordinasi kebijakan, perencanaan dan program di bidang pertanahan. 
+                        <label for="<?php echo $n ?>C">	Teknis melebihi lower management dan top management dan tidak ada ketrampilan manusiawi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Pembinaan dan pelayanan administrasi umum di bidang pertanahan. 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>D">	Konseptual melebihi lower management dan menekankan pada ketrampilan manusiawi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>E">	Pembinaan pengelolaan pertanahan harus mampu berkonstribusi pada harmoni sosial. </label>
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>E">	Konseptual melebihi top management </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Diawali dari tahun 2005, pertanahan nasional dibangun dan dikembangkan atas dasar empat (4) prinsip pengelolaan sebagai berikut kecuali ...... 
+                    <?php echo $n ?>.     Ada 4 unsur penting yang perlu diperhatikan oleh suatu perusahaan ketika memasarkan produknya. Keempat unsur tersebut yang biasanya disebut 4P yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A"> Pengelolaan pertanahan harus mampu berkonstribusi pada kesejahteraan masyarakat,                     </label>
+                        <label for="<?php echo $n ?>A">promotion, person, place, product
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B"> Pengelolaan pelayanan dan pelaksanaan pendaftaran, serta sertifikasi tanah secara menyeluruh di seluruh Indonesia
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">	person, price, product, promotion
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Pengelolaan pertanahan harus mampu berkonstribusi pada keadilan penguasaan dan pemilikan tanah, 
+                        <label for="<?php echo $n ?>C">	power, place, person, promotion
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Pengelolaan pertanahan harus mampu berkonstribusi pada keberlanjutan sistem kemasyarakatan dan Kebangsaan Indonesia, 
+                        <label for="<?php echo $n ?>D">	product, power, place, price
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Pengelolaan pertanahan harus mampu berkonstribusi pada harmoni sosial. </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>E">	product, price, promotion, place </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Dalam logo Badan Pertanahan Nasional terdapat gambar 4 (empat) butir padi yang melambangkan .... 
+                    <?php echo $n ?>.     Kepuasan jangka panjang dapat terpenuhi dengan memperhatikan hal-hal berikut, kecuali ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	kebijaksanaan, kedewasaan serta keseimbangan 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>A">Diskon dan keuntungan
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	sumber penghidupan manusia 
+                        <label for="<?php echo $n ?>B">	Diskon dan pelayanan purna jual
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>C">	Kemakmuran dan kesejahteraan 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>C">	Pelayanan purna jual dan keuntungan
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	poros keseimbangan 
+                        <label for="<?php echo $n ?>D">	Kualitas produk dan kemudahan mendapatkan produk
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	agenda pertanahan yang akan dan telah dilakukan BPN RI </label>
+                        <label for="<?php echo $n ?>E">	Mudah mendapatkan produk dan kualitas produk </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Gambar lingkaran bumi dalam logo Badan Pertanahan Nasional melambangkan .....                 <div>
+                    <?php echo $n ?>.     Berikut urutan proses pemilihan pasar yang benar adalah ...
+                    <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A"> poros keseimbangan 
-                        </label>
+                        <label for="<?php echo $n ?>A">Positioning, Targeting, Segmentasi</label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	sumber penghidupan manusia 
+                        <label for="<?php echo $n ?>B">    Segmentasi, Targeting, Positioning
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Kemakmuran dan kesejahteraan 
+                        <label for="<?php echo $n ?>C">	Targeting, Segmentasi, Positioning
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	bumi, alam raya dan cerminan dapat dipercaya dan teguh 
+                        <label for="<?php echo $n ?>D">	Segmentasi, Positioning, Targeting
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	kehangatan, pencerahan, intelektual dan kemakmuran </label>
+                        <label for="<?php echo $n ?>E">	Targeting, Positioning, Segmentasi </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  wadah atau area untuk berkarya bagi BPN RI yang berhubungan langsung dengan unsur-unsur yang ada didalam bumi yang meliputi tanah, air dan udara digambarkan dengan .... 
+                    <?php echo $n ?>.     Ketika merancang sistem produksi, manajemen harus mempertimbangkan, kecuali ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Gambar 4 (empat) butir padi 
+                        <label for="<?php echo $n ?>A">Lokasi dan tata letak
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Gambar sumbu 
+                        <label for="<?php echo $n ?>B">	Rancangan produk
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Gambar 11(sebelas) bidang grafis bumi 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>C">	Penilaian pegawai
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Gambar garis tegak lurus 
+                        <label for="<?php echo $n ?>D">	Proses produksi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>E">	Gambar lingkaran bumi </label>
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>E">	Rancangan jasa </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Warna Kuning Emas yang terdapat dalam logo Badan Pertanahan Nasional mengandung maksud sebagai ..... 
+                    <?php echo $n ?>.     Perencanaan, pengarahan, pengorganisasian, dan pengendalian atas pengadaan tenaga kerja, pengembangan, kompensasi, pemeliharaan, integrasi, dan PHK (pemutusan hubungan kerja) dengan SDN untuk mencapai sasaran perusahaan merupakan aspek ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	bumi, alam raya dan cerminan dapat dipercaya dan teguh 
+                        <label for="<?php echo $n ?>A">Manajemen Administrasi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	kehangatan, pencerahan, intelektual dan kemakmuran 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">	Manajemen Produk
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	kebijaksanaan, kedewasaan serta keseimbangan 
+                        <label for="<?php echo $n ?>C">	Manajemen Keuangan
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	bidang bumi yang berada diluar jangkauan wilayah kerja BPN RI 
+                        <label for="<?php echo $n ?>D">	Manajemen Pemasaran
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	kemakmuran, keadilan, kesejahteraan sosial dan keberlanjutan </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>E">	Manajemen Personalia </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Sebuah asosiasi nasional yang bergerak dalam pengembangan perumahan dan permukiman di Indonesia yaitu .... 
+                    <?php echo $n ?>.     Tindakan memantau kinerja atau membandingkan hasil-hasil dengan tujuan, serta tindakan mengadakan perbaikan, serta penafsiran umpan balik kinerja sebagai dasar tindakan konstruktif dan perbaikan jika dipandang perlu, adalah pengertian dari fungsi manajemen ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Asosiasi Pengembang Permukiman dan Perumahan Indonesia 
+                        <label for="<?php echo $n ?>A">Organizing
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Organisasi Pembangunan dan Pengembangan Perumahan Permukiman Indonesia 
+                        <label for="<?php echo $n ?>B">	Coordinating
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Asosiasi Pembangunan Perumahan dan Permukiman Seluruh Indonesia 
+                        <label for="<?php echo $n ?>C">	Actuating
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>D">	Asosiasi Pengembang Perumahan dan Permukiman Seluruh Indonesia 
+                        <label for="<?php echo $n ?>D">	Controlling
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Organisasi Pengembang Perumahan dan Permukiman Seluruh Indonesia </label>
+                        <label for="<?php echo $n ?>E">	Planning </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Alternatif penyelesaian perselisihan, sengketa dan perkara melalui mediasi untuk diajarkan kepada peserta PPRA/PPSA Lemhannas RI disahkan oleh Gubernur Lembaga Ketahanan Nasional RI melalui ...... 
+                    <?php echo $n ?>.     Menentukan sumber dana yang dibutuhkan, penyusunan anggaran pengeluaran, serta melakukan pengawasan terhadap penggunaan keuangan, merupakan proses yang dijalani oleh manajemen ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Surat Perintah Nomor Sprin/1235/IX/2009 
+                        <label for="<?php echo $n ?>A">Personalia
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	Surat Perintah Nomor Sprin/2345/IX/2009 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>B">	Produksi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Surat Perintah Nomor Sprin/4521/X/2009                     </label>
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>C">	Keuangan
+                        </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D"> Surat Perintah Nomor Sprin/2345/XI/2009 
+                        <label for="<?php echo $n ?>D">	Pemasaran
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E"> Surat Perintah Nomor Sprin/4521/IX/2009 </label>
+                        <label for="<?php echo $n ?>E">	Administrasi </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Layanan pertanahan bergerak (mobile land service) yang bersifat pro aktif atau "jemput bola" ke tengah-tengah masyarakat yang diresmikanoleh BPN adalah .... 
+                    <?php echo $n ?>.     Keahlian untuk berkomunikasi, bekerjasama dan memotivasi orang lain disebut ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	Larasita 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>A">Konseptual
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	AMINDO 
+                        <label for="<?php echo $n ?>B">	Simpati
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	APERSSI 
+                        <label for="<?php echo $n ?>C">	Teknis
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	APHI 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>D">	Interpersonal
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	AKI </label>
+                        <label for="<?php echo $n ?>E">	Comunication </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Sebuah organisasi yang tergabung dalam himpunan rumah susun di Indonesia disebut .... 
+                    <?php echo $n ?>.     Perhatikan profesi di bawah ini!
+a)     Mandor
+b)     Direktur utama
+c)     Kepala bagian
+d)     Pengawas lapangan
+e)     Dewan direksi
+f)      Supervisor
+Yang merupakan bagian dari lower manajemen yaitu ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Organisasi Perhimpunan Rumah Susun Indonesia (OPRSI) 
+                        <label for="<?php echo $n ?>A">B, D, F
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Asosiasi penghuni Rumah Susun Indonesia (APRSI) 
+                        <label for="<?php echo $n ?>B">	A, B, C
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>C">	Asosiasi Perhimpunan penghuni Rumah Susun Indonesia (APERSSI) 
+                        <label for="<?php echo $n ?>C">	A, D, F
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Asosiasi Mediator Indonesia (AMINDO) 
+                        <label for="<?php echo $n ?>D">	B, C, D
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	LARASITA 
-    </label>
+                        <label for="<?php echo $n ?>E">	C, E, F </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Beberapa penyebab munculnya kasus-kasus pertanahan sangat bervariasi, antara lain sebagai berikut kecuali .... 
+                    <?php echo $n ?>.     Tingkat manajemen yang bertugas memimpin dan mengawasi tenaga-tenaga operasional adalah ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Harga tanah yang meningkat dengan cepat. 
-                        </label>
+                        <label for="<?php echo $n ?>A">Organizing</label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Kondisi masyarakat yang semakin sadar dan peduli akan kepentingan/haknya
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>B">    Lower management
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Iklim keterbukaan yang digariskan pemerintah 
+                        <label for="<?php echo $n ?>C">	Top management
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>D">	Perebutan hak milik berdasarkan warisan turun temurun tanpa bukti jelas 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>D">	Middle management
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	pengadaan tanah untuk pembangunan: pengurusan, peralihan, serta pembebanan hak atas tanah </label>
+                        <label for="<?php echo $n ?>E">	Personalia </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Pemerintah  Indonesia  tahun  2013  ini  akan  mendorong  realisasi  pembangunan infrastruktur bidang pertanahan melalui program ..... 
+                    <?php echo $n ?>.     Planning, Organizing, Motivating, Controlling, Evaluating merupakan fungsi manajemen menurut ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	Masterplan Percepatan dan Perluasan Pembangunan Ekonomi Indonesia (MP3EI) 
+                        <label for="<?php echo $n ?>A">Sondang P. Siagian
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Sistem Informasi Manajemen Kepegawaian (SIMPEG) 
+                        <label for="<?php echo $n ?>B">	Henry Fayol
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Pembentukan Satuan Tugas Agen  Perubahan  (Agent  Of  Changes)  di  lingkungan 
-    Kantor Wilayah (Kanwil) BPN Provinsi 
+                        <label for="<?php echo $n ?>C">	M. Gullick
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Reformasi Birokrasi Pertanahan 
+                        <label for="<?php echo $n ?>D">	Harlod Koontz
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Program Larasita </label>
+                        <label for="<?php echo $n ?>E">	George R. Terry </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Berdasarkan Peraturan Kepala BPN RI Nomor 3 Tahun 2011 tentang Pengelolaan Pengkajian dan Penanganan Kasus Pertanahan, kasus pertanahan meliputi .....                 <div>
+                    <?php echo $n ?>.     Kegiatan pengkoordinasian perlu memperhatikan hal-hal berikut, kecuali ...
+                    <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A"> Sengketa mengenai harga tanah yang meningkat secara cepat 
-                        </label>
+                        <label for="<?php echo $n ?>A">Simplifikasi</label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Perebutan wilayah kekuasaan tanah/hak milik 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>B">    Evaluasi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>C">	sengketa, konflik dan perkara pertanahan yang disampaikan kepada Badan Pertanahan 
-    Nasional Republik Indonesia (BPN) 
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>C">	Integrasi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Sengketa tanah, bangunan pemerintah yang menempati wilayah tanah rakyat 
+                        <label for="<?php echo $n ?>D">	Koordinasi
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Segala bentuk yang berhubungan dengan tanah yang diadukan oleh masyarakat ke BPN </label>
+                        <label for="<?php echo $n ?>E">	Sinkronisasi </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Sengketa tanah dapat berupa sebagai berikut kecuali .....                 <div>
+                    <?php echo $n ?>.     Penentuan tujuan yang jelas, pembagian kerja, pelimpahan wewenang, kesatuan komando, rentangan kekuasaan merupakan prinsip-prinsip dari ...
+                    <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A"> sengketa administratif 
+                        <label for="<?php echo $n ?>A">Directing
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	sengketa perdata 
+                        <label for="<?php echo $n ?>B">	Planning
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	sengketa pidana 
+                        <label for="<?php echo $n ?>C">	Actuating
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Sengketa mengenai pemilikan, transaksi 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>D">	Organizing
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>E">	Sengketa konsumsif </label>
+                            onclick="check(<?php echo $n ?>, false)">
+                        <label for="<?php echo $n ?>E">	Controlling </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Tipologi kasus pertanahan yaitu ..... 
+                    <?php echo $n ?>.     Perkembangan terakhir yang relatif baru dalam manajemen adalah konsep 7S dari ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	perselisihan pertanahan yang penyelesaiannya dilaksanakan oleh lembaga peradilan atau putusan lembaga peradilan yang masih dimintakan penanganan perselisihannya di BPN RI. 
-                        </label>
+                        <label for="<?php echo $n ?>A">Henry Fayol</label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>B">	jenis sengketa, konflik dan atau perkara pertanahan yang disampaikan atau diadukan dan ditangani oleh Badan Pertanahan Nasional 
+                        <label for="<?php echo $n ?>B">    McKinsey
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	perselisihan pertanahan antara orang perseorangan, kelompok, golongan, organisasi, badan hukum atau lembaga yang mempunyai kecenderungan atau sudah berdampak luas secara sosio-politis. 
+                        <label for="<?php echo $n ?>C">	George R. Terry
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	perselisihan pertanahan antara orang perseorangan, badan hukum atau lembaga yang tidak berdampak luas secara sosio-politis. 
+                        <label for="<?php echo $n ?>D">	William H. Newman
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	sengketa, konflik dan perkara pertanahan yang disampaikan kepada Badan Pertanahan Nasional Republik Indonesia untuk mendapatkan penanganan, penyelesaian sesuai peraturan perundang-undangan dan/atau kebijakan pertanahan nasional. </label>
+                        <label for="<?php echo $n ?>E">	Prof. Eiji Ogawa </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
     
                 <div class="col-sm-12 card">
                     <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Secara garis besar Tipologi kasus pertanahan dikelompokkan menjadi beberapa hal berikut kecuali ..... 
+                    <?php echo $n ?>.     Dapat menjalani hubungan baik antar anggota organisasi, struktur anggota dapat mengetahui tugas, kewajiban dan tanggung jawabnya, spesialisasi dalam melakukan tugas. Merupakan manfaat ...
                     <div>
                         <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	Penguasaan tanah tanpa hak 
+                            onclick="check(<?php echo $n ?>, true)">
+                        <label for="<?php echo $n ?>A">Organizing
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Sengketa batas 
+                        <label for="<?php echo $n ?>B">	Planning        
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Sertipikat ganda 
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>D">	Jual satu kali dalam setahun 
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Akta Jual Beli Palsu </label>
-                    </div>
-                    <div id="<?php echo $n ?>"></div>
-                </div>
-    
-                <div class="col-sm-12 card">
-                    <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Jenis sengketa mengenai perbedaan pendapat, nilai kepentingan mengenai letak, batas dan  luas  bidang  tanah  yang  diakui  satu  pihak  yang  telah  ditetapkan  oleh  Badan Pertanahan Nasional Republik Indonesia maupun yang masih dalam proses penetapan batas disebut ..... 
-                    <div>
-                        <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>A">	Sengketa batas 
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Kekeliruan penunjukan batas 
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Penguasaan tanah tanpa hak 
+                        <label for="<?php echo $n ?>C">	Actuating
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Sengketa waris 
+                        <label for="<?php echo $n ?>D">	Controlling
                         </label>
                     </div>
                     <div>
                         <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
                             onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Tumpang tindih </label>
+                        <label for="<?php echo $n ?>E">	Coordinating </label>
                     </div>
                     <div id="<?php echo $n ?>"></div>
                 </div>
-    
-                <div class="col-sm-12 card">
-                    <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Penanganan suatu kasus pertanahan yang disampaikan atau diadukan dan ditangani oleh Badan Pertanahan Nasional RI dilakukan dengan tahapan sebagai berikut kecuali ....                 <div>
-                        <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A"> Pengolahan data pengaduan, penelitian lapangan/koordinasi/investigasi. 
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	Penyelenggaraan gelar kasus/penyiapan berita acara
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>C">	Menyusun suatu rekomendasi penyelesaian kasus. 
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Analisis/Penyusunan Risalah Pengolahan Data/surat keputusan. 
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>E">	Monitoring dan evaluasi terhadap hasil penanganan kasus. </label>
-                    </div>
-                    <div id="<?php echo $n ?>"></div>
-                </div>
-    
-                <div class="col-sm-12 card">
-                    <?php $n= $n + 1; ?>
-                    <?php echo $n ?>.  Terdapat lima kriteria yang dilakukan oleh BPN RI dalam upaya penyelesaian kasus pertanahan. Adapun yang dimaksud dalam kriteria 4 (K4) yaitu .... 
-                    <div>
-                        <input id="<?php echo $n ?>A" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>A">	penerbitan surat pemberitahuan penyelesaian kasus pertanahan dan pemberitahuan kepada semua pihak yang bersengketa
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>B" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>B">	penerbitan Surat Keputusan tentang pemberian hak atas tanah, pembatalan sertipikat hak atas tanah, pencatatan dalam buku tanah atau perbuatan hukum lainnya sesuai Surat Pemberitahuan Penyelesaian Kasus Pertanahan. 
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>C" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>C">	Pemberitahuan Penyelesaian Kasus Pertanahan yang ditindaklanjuti mediasi oleh BPN sampai pada kesepakatan berdamai atau kesepakatan yang lain disetujui oleh pihak yang bersengketa
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>D" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, false)">
-                        <label for="<?php echo $n ?>D">	Pemberitahuan Penyelesaian Kasus Pertanahan yang menyatakan bahwa penyelesaian kasus   pertanahan   yang   telah   ditangani   bukan   termasuk   kewenangan   BPN   dan dipersilakan untuk diselesaikan melalui instansi lain. 
-                        </label>
-                    </div>
-                    <div>
-                        <input id="<?php echo $n ?>E" type="radio" name="<?php echo $n ?>"
-                            onclick="check(<?php echo $n ?>, true)">
-                        <label for="<?php echo $n ?>E">	Pemberitahuan  Penyelesaian  Kasus  Pertanahan  yang  intinya  menyatakan  bahwa penyelesaian kasus pertanahan akan melalui proses perkara di pengadilan. </label>
-                    </div>
-                    <div id="<?php echo $n ?>"></div>
-                </div>
-    
 
+
+    
 
         </div>
-</div>
+    </div>
 <button type="button" class="btn btn-secondary mb-3" onclick="nilai()">Check nilai </button>
 </section>
 <?php include("../footer.php") ?>
