@@ -213,6 +213,7 @@
                   </a>
                   <ul id="dropdown3" class="collapse list-unstyled ">
                     <li><a href="<?php echo $loc; ?>3_konsep_teoritis/1.php">1</a></li>
+                    <li><a href="<?php echo $loc; ?>3_konsep_teoritis/2.php">2</a></li>
                   </ul>
                 </li>
 
